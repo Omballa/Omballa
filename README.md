@@ -12,7 +12,7 @@ Recently crowned with a Google Certification in Data Analytics 🎓, I've embark
 
 ### Connect with Me 🌐
 
-- 📧 Email: [contact@brandon.co.ke](mailto:brandonomballa@gmail.com)
+- 📧 Email: [contact@brandon.co.ke](mailto:williamomballa@gmail.com)
 - 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/brandon-omballa/)
 - 🌐 Website: [@portfolio](https://brandon.co.ke)
 
