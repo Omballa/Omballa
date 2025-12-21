@@ -1,21 +1,13 @@
-## Hi there 👋
+Full-Stack Developer | Open-Source Contributor
 
-## Welcome to My Coding Wonderland! 🚀
+Building modern web, mobile, and backend solutions with React, TypeScript, Next.js, Node.js, Flutter, and Python.
 
-### About Me
+Contributed Swahili translations to the official React documentation (reactjs/sw.react.dev). Google-certified in Data Analytics with ongoing exploration in Machine Learning and Data Science.
 
-I'm a Software Engineering student 👨‍💻 who's head over heels for anything and everything in the vast realm of technology. By day, I'm diving into the world of React, React Native, Flutter, Python, and Node.js, creating sleek and interactive front-end experiences, and crafting robust back-end solutions. But when the sun sets, you'll find me immersed in my favorite hobby – creating games 🎮. I believe games are the art of Software Development, a canvas where you can paint your world and share it with people. It's not just about coding; it's about storytelling and creating experiences!
+Focused on practical tools: e-commerce platforms, real-time APIs, game servers, and data-driven applications.
 
-### Data Enthusiast 📊
+Nairobi, Kenya
 
-Recently crowned with a Google Certification in Data Analytics 🎓, I've embarked on a thrilling adventure in the Data Science universe! 🌌 Enrolled in a Data Science Bootcamp, I'm delving into the fascinating realms of Machine Learning and beyond. I strongly believe that data is the "new oil" 💡, shaping the future in ways we can't even imagine. Let's analyze, visualize, and predict the future together!
-
-### Connect with Me 🌐
-
-- 📧 Email: [contact@brandon.co.ke](mailto:williamomballa@gmail.com)
-- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/brandon-omballa/)
-- 🌐 Website: [@portfolio](https://brandon.co.ke)
-
-### Let's Code and Create Magic! ✨
-
-Feel free to explore my repositories, dive into the code, and let's build something amazing together! 🚀 Happy coding! 🎉
+🌐 Portfolio: [@portfolio](https://brandon.co.ke)
+📧 Email: [williamomballa@gmail.com](mailto:williamomballa@gmail.com)
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/brandon-omballa/)
